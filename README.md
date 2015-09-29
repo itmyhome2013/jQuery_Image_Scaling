@@ -5,4 +5,4 @@ jQuery实现等比例缩放大图片
 
 这时我们就需要将图片按比例缩放，让大图片自适应页面布局。
 
-效果演示: <a href="http://itmyhome.com/jquery_image_scaling/ " target="_blank">点击</a>
+效果演示: <a href="http://blog.itmyhome.com/jquery_image_scaling/ " target="_blank">点击</a>
